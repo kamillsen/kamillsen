@@ -1,0 +1,29 @@
+name: Generate Snake Game from Contribution Grid
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Her gün saat 00:00'da çalışır
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v3
+
+      - name: Yılan Oyunu SVG'sini Oluştur
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+
+      - name: Oluşturulan Dosyaları Depoya Gönder
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Yılan oyunu animasyonu güncellendi"
+          file_pattern: dist/*
