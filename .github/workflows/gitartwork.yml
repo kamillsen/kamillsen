@@ -12,7 +12,7 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
           user_name: "kamillsen"
-          text: "Hi Guys"
+          text: "Hi_Guys"
       - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
