@@ -1,6 +1,8 @@
 name: gitartwork from a contribution graph
+
 on:
   push:
+
 jobs:
   build:
     name: Make gitartwork SVG
@@ -9,11 +11,10 @@ jobs:
       - uses: actions/checkout@v3
       - uses: jasineri/gitartwork@v1
         with:
-          user_name: kamillsen
-          text: kamillsen
-      - uses: jasineri/simple-push-action@v1
-
-
-
-
- 
+          user_name: "kamillsen"
+          text: "Hosgeldiniz"
+      - name: Commit files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Add gitartwork.svg"
+          branch: main  # Eğer farklı bir dal (branch) kullanıyorsanız, burayı değiştirin
