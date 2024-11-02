@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 ![gitartwork](gitartwork.svg)
 
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
+
+
