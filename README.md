@@ -41,6 +41,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=radical" alt="GitHub İstatistiklerim"/>
 </p>
 
+# En Çok Kullandığım Diller 💻
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillsen&layout=compact&theme=radical" alt="En Çok Kullandığım Diller"/>
+</p>
+
+
 
 
 
