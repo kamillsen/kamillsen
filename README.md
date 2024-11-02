@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 </p>
 
 
+# GitHub İstatistiklerim 📊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kullanici-adiniz&show_icons=true&theme=radical" alt="GitHub İstatistiklerim"/>
+</p>
+
+
+
 
 ![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
