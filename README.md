@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
   <a href="http://ude.my/UC-3a1bafdf-7913-415d-a6ff-e7810be1438c">
-    <img src="https://img.shields.io/badge/Udemy%20-%20Angular%20Deep%20Dive%20-%20Beginner%20to%20Advanced%20(Angular%2018)-DD0031?style=for-the-badge&logo=udemy&logoColor=white" alt="Angular Deep Dive - Beginner to Advanced (Angular 18)"/>
+    <img src="https://img.shields.io/badge/Udemy%20-%20Angular%20Deep%20Dive%20-%20Beginner%20to%20Advanced%20Angular%2018-DD0031?style=for-the-badge&logo=udemy&logoColor=white" alt="Angular Deep Dive - Beginner to Advanced (Angular 18)"/>
   </a>
 </p>
 <p align="left">
