@@ -45,30 +45,29 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="http://ude.my/UC-104e2f0c-c365-4201-a392-475d70785fcf">
-    <img src="https://img.shields.io/badge/Udemy%20-%20ASP.NET%20Core%207.0%20ile%20Sıfırdan%20Modern%20Web%20Geliştirme-0056D2?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core 7.0 ile Sıfırdan Modern Web Geliştirme"/>
+    <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%207.0%20Web%20Geliştirme-0056D2?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core 7.0 Web Geliştirme"/>
   </a>
 </p>
 <p align="left">
   <a href="http://ude.my/UC-380ac408-5b8d-4dd9-9ce8-6ca936db6e5e">
-    <img src="https://img.shields.io/badge/Udemy%20-%20ASP.NET%20CORE%20WEB%20API%20%7C%20The%20Completed%20Guide-007396?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET CORE WEB API | The Completed Guide"/>
+    <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20Web%20API-007396?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core Web API"/>
   </a>
 </p>
 <p align="left">
   <a href="http://ude.my/UC-3a1bafdf-7913-415d-a6ff-e7810be1438c">
-    <img src="https://img.shields.io/badge/Udemy%20-%20Angular%20Deep%20Dive%20-%20Beginner%20to%20Advanced%20Angular%2018-DD0031?style=for-the-badge&logo=udemy&logoColor=white" alt="Angular Deep Dive - Beginner to Advanced (Angular 18)"/>
+    <img src="https://img.shields.io/badge/Udemy-Angular%20Deep%20Dive-DD0031?style=for-the-badge&logo=udemy&logoColor=white" alt="Angular Deep Dive"/>
   </a>
 </p>
 <p align="left">
   <a href="http://ude.my/UC-d278a12e-7b9e-4d00-9a67-b9651964b807">
-    <img src="https://img.shields.io/badge/Udemy%20-%20Advanced%20CSS%20and%20Sass%3A%20Flexbox%2C%20Grid%2C%20Animations%20and%20More-E34F26?style=for-the-badge&logo=udemy&logoColor=white" alt="Advanced CSS and Sass: Flexbox, Grid, Animations and More"/>
+    <img src="https://img.shields.io/badge/Udemy-Advanced%20CSS%20and%20Sass-E34F26?style=for-the-badge&logo=udemy&logoColor=white" alt="Advanced CSS and Sass"/>
   </a>
 </p>
 <p align="left">
   <a href="http://ude.my/UC-b222ec93-bb8a-4bc4-ab4e-5f277461e5bb">
-    <img src="https://img.shields.io/badge/Udemy%20-%20Asp.Net%20Core%20Api%20-%20Rapid%20Api%20ve%20Api%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="Asp.Net Core Api - Rapid Api ve Api Consume"/>
+    <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20API%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core API Consume"/>
   </a>
 </p>
-
 
 
 
