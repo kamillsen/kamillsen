@@ -16,5 +16,6 @@ jobs:
       - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Add gitartwork.svg"
-          branch: main  # Eğer farklı bir dal (branch) kullanıyorsanız, burayı değiştirin
+          commit_message: "Update gitartwork.svg with new text"
+          branch: main
+          commit_options: "--force"  # SVG dosyasının zorla güncellenmesi için
