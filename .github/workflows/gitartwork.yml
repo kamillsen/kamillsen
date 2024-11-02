@@ -10,5 +10,10 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
           user_name: kamillsen
-          text: welcome to my repo
+          text: kamillsen
       - uses: jasineri/simple-push-action@v1
+
+
+
+
+ 
