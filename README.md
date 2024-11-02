@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillsen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 
-Üzerinde çalıştığım teknolojiler:
+# Üzerinde çalıştığım teknolojiler:
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
