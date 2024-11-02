@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ![gitartwork](gitartwork.svg)
 
-# Merhaba, Ben Kamil ŞEN 👋
-Üzerinde çalıştığım teknolojiler:
+
 
 # Merhaba, Ben Kamil ŞEN 👋
 Üzerinde çalıştığım teknolojiler:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
