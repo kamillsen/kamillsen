@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillsen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 # Merhaba, Ben Kamil ŞEN 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillsen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 Üzerinde çalıştığım teknolojiler:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
