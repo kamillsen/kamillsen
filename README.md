@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![gitartwork](gitartwork.svg)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillsen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 # Merhaba, Ben Kamil ŞEN 👋
 Üzerinde çalıştığım teknolojiler:
