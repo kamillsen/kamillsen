@@ -1,4 +1,4 @@
-👋 Merhaba! Ben Kamil Şen. İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Backend geliştirme ve Veri Bilimi alanlarına ilgi duyuyorum. Yazılım dünyasında deneyim kazanmak ve projelerle kendimi geliştirmek için sürekli çalışıyorum.
+👋 Merhaba! Ben Kamil Şen. İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği Haziran 2025 mezunuyum. Backend geliştirme ilgi duyuyorum. Yazılım dünyasında deneyim kazanmak ve projelerle kendimi geliştirmek için sürekli çalışıyorum.
 
 💻 Backend Geliştirme: ASP.NET Core ve MSSQL ile backend tarafında kendimi geliştiriyorum. Microservice mimarisi, API geliştirme ve veritabanı yönetimi alanlarında deneyimim var. Stajlarım sırasında edindiğim bilgi ve becerilerle projeler üzerinde çalışmayı seviyorum.
 GitHub profilimde projelerimi inceleyebilir, LinkedIn üzerinden bana ulaşabilirsiniz! 🧑‍💻
