@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 </p>
 <p align="left">
   <a href="http://ude.my/UC-380ac408-5b8d-4dd9-9ce8-6ca936db6e5e">
-    <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20API%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core API Consume"/>
+    <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20API%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET CORE WEB API | The Complete Guide"/>
   </a>
 </p>
 
