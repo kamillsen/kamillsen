@@ -1,7 +1,13 @@
-👋 Merhaba! Ben Kamil Şen. İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği Haziran 2025 mezunuyum. Backend geliştirme ilgi duyuyorum. Yazılım dünyasında deneyim kazanmak ve projelerle kendimi geliştirmek için sürekli çalışıyorum.
+👋 Merhaba! Ben Kamil Şen. İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği (Haziran 2025) mezunuyum ve backend odaklı Full Stack Developer olarak ölçeklenebilir, sürdürülebilir ürünler geliştirmeye odaklanıyorum.
 
-💻 Backend Geliştirme: ASP.NET Core ve MSSQL ile backend tarafında kendimi geliştiriyorum. Microservice mimarisi, API geliştirme ve veritabanı yönetimi alanlarında deneyimim var. Stajlarım sırasında edindiğim bilgi ve becerilerle projeler üzerinde çalışmayı seviyorum.
-GitHub profilimde projelerimi inceleyebilir, LinkedIn üzerinden bana ulaşabilirsiniz! 🧑‍💻
+💻 Backend:
+ASP.NET Core ile RESTful API geliştiriyor; C# + Entity Framework ile iş kurallarını doğru modelleyip MS SQL üzerinde performanslı ve bakımı kolay sistemler inşa ediyorum. Clean Architecture ve mikroservis yaklaşımıyla ilerleyen projelerde aktif rol alıyorum.
+
+🧩 Frontend:
+React ve Vue ile modern arayüzler geliştiriyor; TypeScript ile modüler component yapıları, state yönetimi, form/validasyon ve API entegrasyonlarını uçtan uca ele alıyorum. Veri yoğun ekranlarda tablo/grid, filtreleme–sayfalama–sıralama, chart tabanlı görselleştirme ve performans optimizasyonu konularına özellikle önem veriyorum.
+
+🤖 Çalışma yaklaşımım:
+Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı araçları aktif kullanırım. Kod kalitesi, dokümantasyon ve problem çözme hızını sürekli iyileştirmeyi hedeflerim. Yeni teknolojileri hızlı öğrenen, ekip içinde güçlü iletişim kuran ve projenin tüm aşamalarına katkı sunan bir yapıya sahibim.
 
 <!--
 **kamillsen/kamillsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
