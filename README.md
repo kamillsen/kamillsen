@@ -97,12 +97,12 @@ Here are some ideas to get you started:
 
 # GitHub İstatistiklerim 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=radical" alt="GitHub İstatistiklerim"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=1" />
 </p>
 
 # En Çok Kullandığım Diller 💻
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillsen&layout=compact&theme=radical" alt="En Çok Kullandığım Diller"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillsen&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=1" />
 </p>
 
 
