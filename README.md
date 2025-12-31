@@ -98,8 +98,8 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=kamillsen&layout=compact&theme=radical&hide_border=false)
 
 ### 🔥 Aktiflik (Streak)
-<!-- Çalışması daha yaygın alternatif stalk servisi -->
-![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=kamillsen&theme=dark)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kamillsen&theme=radical)
+
 
 
 
