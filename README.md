@@ -118,14 +118,67 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 ## 📊 GitHub İstatistikler
 
 ### 🌟 GitHub Genel İstatistikler
-<!-- Alternatif bir çalışan stats servisi ile -->
-![Kamil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kamillsen&show_icons=true&theme=radical&hide_border=false)
+<p align="left">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=kamillsen&show_icons=true&theme=radical&hide_border=false"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=kamillsen&show_icons=true&theme=default&hide_border=false"
+    />
+    <!-- Fallback (light) -->
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=kamillsen&show_icons=true&theme=default&hide_border=false"
+      alt="Kamil's GitHub Stats"
+    />
+  </picture>
+</p>
 
 ### 🧠 En Çok Kullanılan Diller
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=kamillsen&layout=compact&theme=radical&hide_border=false)
+<p align="left">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kamillsen&layout=compact&theme=radical&hide_border=false"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kamillsen&layout=compact&theme=default&hide_border=false"
+    />
+    <!-- Fallback (light) -->
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kamillsen&layout=compact&theme=default&hide_border=false"
+      alt="Top Langs"
+    />
+  </picture>
+</p>
 
 ### 🔥 Aktiflik (Streak)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kamillsen&theme=radical)
+<p align="left">
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=kamillsen&theme=radical"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=kamillsen&theme=default"
+    />
+    <!-- Fallback (light) -->
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/streak?username=kamillsen&theme=default"
+      alt="GitHub Streak"
+    />
+  </picture>
+</p>
 
 
 
