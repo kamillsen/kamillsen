@@ -90,14 +90,17 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 
 ## 📊 GitHub İstatistikler
 
-### 🌟 Genel İstatistikler
-![Kamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=tokyonight)
+### 🌟 GitHub Genel İstatistikler
+<!-- Alternatif bir çalışan stats servisi ile -->
+![Kamil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=kamillsen&show_icons=true&theme=radical&hide_border=false)
 
 ### 🧠 En Çok Kullanılan Diller
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillsen&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=kamillsen&layout=compact&theme=radical&hide_border=false)
 
 ### 🔥 Aktiflik (Streak)
-![GitHub Streak](https://streak-stats.demolab.com?user=kamillsen&theme=tokyonight)
+<!-- Çalışması daha yaygın alternatif stalk servisi -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamillsen&theme=dark&hide_border=false)
+
 
 ---
 
