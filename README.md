@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&lines=Hello+World!;I’m+Kamil+Şen+|+Full+Stack+Dev)
+
 👋 Merhaba! Ben Kamil Şen. İstanbul Medeniyet Üniversitesi Bilgisayar Mühendisliği (Haziran 2025) mezunuyum ve backend odaklı Full Stack Developer olarak ölçeklenebilir, sürdürülebilir ürünler geliştirmeye odaklanıyorum.
 
 💻 Backend:
@@ -12,7 +14,6 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 <!--
 **kamillsen/kamillsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&lines=Hello+World!;I’m+Kamil+Şen+|+Full+Stack+Dev)
 ![gitartwork](gitartwork.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillsen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
