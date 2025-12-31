@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=4000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=Hello+World!;I’m+Kamil+Şen+%7C+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=10000&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer)
 
 
 
