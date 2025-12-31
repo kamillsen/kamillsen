@@ -16,13 +16,13 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 
 <!--
 **kamillsen/kamillsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-![gitartwork](gitartwork.svg)
+
+[![gitartwork](gitartwork.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillsen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
----
-
+---](url)
+-->
 ## 👨‍💻 Üzerinde Çalıştığım Teknolojiler
 
 <p align="left">
