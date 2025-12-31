@@ -110,6 +110,9 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 <img src="https://skillicons.dev/icons?i=csharp,react,vue,ts,netcore,python" alt="Skills"/>
 ![Metrics](https://metrics.lecoq.io/kamillsen?template=classic)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=dracula" alt="Kamil's GitHub Stats"/>
+## 📊 GitHub İstatistikler
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamillsen&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Kamil's GitHub Stats"/>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamillsen&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Kamil's GitHub Stats"/>
