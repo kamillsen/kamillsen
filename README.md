@@ -107,7 +107,9 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 
 ### DENEME
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&lines=Hello+World!;I’m+Kamil+Şen+|+Full+Stack+Dev)
-![Spotify Now Playing](https://spotify-readme-pink.vercel.app/api/now-playing?theme=default)
+<img src="https://skillicons.dev/icons?i=csharp,react,vue,ts,netcore,python" alt="Skills"/>
+
+
 
 
 ---
