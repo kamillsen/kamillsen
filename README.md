@@ -75,6 +75,11 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
     <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20API%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core API Consume"/>
   </a>
 </p>
+<p align="left">
+  <a href="http://ude.my/UC-4c72143b-ed2b-4499-94f7-456196b79393">
+    <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20API%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core API Consume"/>
+  </a>
+</p>
 
 ---
 
