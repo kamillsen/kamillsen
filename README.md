@@ -94,21 +94,6 @@ Here are some ideas to get you started:
 
 
 
-
-# GitHub İstatistiklerim 📊
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&v=1" />
-</p>
-
-# En Çok Kullandığım Diller 💻
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillsen&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&v=1" />
-</p>
-
-
-
-
-
 ![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 
