@@ -5,18 +5,19 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=0d1117&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
     />
-    <!-- LIGHT MODE -->
+    <!-- LIGHT MODE (ARKA PLAN BEYAZ) -->
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=f6f8fa&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=ffffff&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
     />
-    <!-- Fallback (light) -->
+    <!-- Fallback (light varsayılan, yine beyaz) -->
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=f6f8fa&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=ffffff&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
       alt="Typing SVG"
     />
   </picture>
 </p>
+
 
 
 
