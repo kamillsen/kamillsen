@@ -1,9 +1,23 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=transparent&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
-    alt="Typing SVG"
-  />
+  <picture>
+    <!-- DARK MODE -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=0d1117&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
+    />
+    <!-- LIGHT MODE -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=f6f8fa&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
+    />
+    <!-- Fallback (light) -->
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=20000&color=00FF00&background=f6f8fa&center=true&vCenter=true&width=900&lines=I’m+Kamil+Şen+%7C+Full+Stack+Developer"
+      alt="Typing SVG"
+    />
+  </picture>
 </p>
+
 
 
 
