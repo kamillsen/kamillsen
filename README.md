@@ -78,14 +78,9 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 
 ---
 
-## 🎮 GitHub Yılanı (Çerçeveli)
+## 🎮 GitHub Yılanı
 
-<p align="center">
-  <div style="border: 4px solid #4A90E2; padding: 16px; border-radius: 8px; display: inline-block;">
-    <img src="./dist/github-snake.svg" alt="GitHub Snake" width="1000"/>
-  </div>
-</p>
-
+![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only) ![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
 ---
 
 ## 📊 GitHub İstatistikler
