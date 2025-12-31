@@ -23,6 +23,8 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 
 ---](url)
 -->
+
+
 ## 👨‍💻 Üzerinde Çalıştığım Teknolojiler
 
 <p align="left">
