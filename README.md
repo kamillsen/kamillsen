@@ -99,7 +99,8 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 
 ### 🔥 Aktiflik (Streak)
 <!-- Çalışması daha yaygın alternatif stalk servisi -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamillsen&theme=dark&hide_border=false)
+![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=kamillsen&theme=dark)
+
 
 
 ---
