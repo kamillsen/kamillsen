@@ -11,29 +11,16 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 
 <!--
 **kamillsen/kamillsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ![gitartwork](gitartwork.svg)
 
-
-
-
-# Merhaba, Ben Kamil ŞEN 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillsen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
+---
 
-# Üzerinde çalıştığım teknolojiler:
+## 👨‍💻 Üzerinde Çalıştığım Teknolojiler
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -50,15 +37,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 </p>
 
+---
 
-# Beni Takip Edin
+## 🛠 Beni Takip Edin
+
 <p align="left">
   <a href="https://linkedin.com/in/kamil-şen-60a576219/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:senkamil1864@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
 </p>
 
-# Sertifikalarım 📜
+---
+
+## 📜 Sertifikalarım
 
 <p align="left">
   <a href="http://ude.my/UC-104e2f0c-c365-4201-a392-475d70785fcf">
@@ -85,16 +75,31 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20API%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET Core API Consume"/>
   </a>
 </p>
-<p align="left">
-  <a href="http://ude.my/UC-380ac408-5b8d-4dd9-9ce8-6ca936db6e5e">
-    <img src="https://img.shields.io/badge/Udemy-ASP.NET%20Core%20API%20Consume-512BD4?style=for-the-badge&logo=udemy&logoColor=white" alt="ASP.NET CORE WEB API | The Complete Guide"/>
-  </a>
+
+---
+
+## 🎮 GitHub Yılanı (Çerçeveli)
+
+<p align="center">
+  <div style="border: 4px solid #4A90E2; padding: 16px; border-radius: 8px; display: inline-block;">
+    <img src="./dist/github-snake.svg" alt="GitHub Snake" width="300"/>
+  </div>
 </p>
 
+---
 
+## 📊 GitHub İstatistikler
 
+### 🌟 Genel İstatistikler
+![Kamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=tokyonight)
 
-![GitHub Snake Light](./dist/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](./dist/github-snake-dark.svg#gh-dark-mode-only)
+### 🧠 En Çok Kullanılan Diller
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamillsen&layout=compact&theme=tokyonight)
 
+### 🔥 Aktiflik (Streak)
+![GitHub Streak](https://streak-stats.demolab.com?user=kamillsen&theme=tokyonight)
 
+---
+
+**Teşekkürler! 🚀**  
+Bu profili beğendiysen ⭐ basmayı unutma 😊
