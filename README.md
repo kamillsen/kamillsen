@@ -105,17 +105,7 @@ Geliştirme süreçlerinde üretkenliği artırmak için yapay zeka tabanlı ara
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=kamillsen&theme=radical)
 
 
-### DENEME
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&lines=Hello+World!;I’m+Kamil+Şen+|+Full+Stack+Dev)
-<img src="https://skillicons.dev/icons?i=csharp,react,vue,ts,netcore,python" alt="Skills"/>
-![Metrics](https://metrics.lecoq.io/kamillsen?template=classic)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamillsen&show_icons=true&theme=dracula" alt="Kamil's GitHub Stats"/>
-## 📊 GitHub İstatistikler
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamillsen&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Kamil's GitHub Stats"/>
-<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamillsen&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="Kamil's GitHub Stats"/>
 
 
 ---
